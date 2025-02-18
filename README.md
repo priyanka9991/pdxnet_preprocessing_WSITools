@@ -35,9 +35,9 @@ the dependent [OpenSlide](https://openslide.org/) library.
     2. Copy all files from `/bin` into your `venv/Scripts/` directory
 
 ### Preprocessing PDXNet data:
-'''bash
+```bash
 python /wsitools/examples/preprocess_pdxnet.py
-'''
+```
 
 ### Testing [From Jun]
 We provide examples for [Patch Extraction](docs/patch_extraction/patch_extraction.md) and 
