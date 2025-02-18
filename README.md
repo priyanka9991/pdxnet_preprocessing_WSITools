@@ -1,3 +1,6 @@
+Code location in lambda: /nfs/ml_lab/projects/Pilot1_PreclinicalHPC/priyanka/WSITools  
+Raw data location in lambda: /nfs/ml_lab/projects/Pilot1_PreclinicalHPC/digPath_Data/PDXNet
+
 # WSITools
 Tools for whole slide image (WSI) pre-processing, including tissue detection, patch extraction, annotation parsing etc.
 # Citation
